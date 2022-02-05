@@ -1,5 +1,4 @@
 /* Ethan Rich
- * ASU ID: 1221664977
  * Honors Contract Project - Picross
  * CSE 205 - MWF 10:10 - 11:00
  * */

@@ -1,5 +1,4 @@
 /* Ethan Rich
- * ASU ID: 1221664977
  * Honors Contract Project - Picross
  * CSE 205 - MWF 10:10 - 11:00
  * */
@@ -40,11 +39,11 @@ public class GamePane extends BorderPane {
 	private Label infoLabel, timerLabel;
 	private Timer timer;
 	private String secondsString, minutesString, timeString;
-	private int dimension, secondsElapsed, seconds, minutes;
+	private int secondsElapsed, seconds, minutes;
 	private boolean warningFlagNewPuzzle, warningFlagQuit, isSolveTimesDisplayed;
 	
-	//constructors
-	public GamePane(int dimension) {
+	//constructor
+		public GamePane(int dimension) {
 		
 		//Set values for booleans and integers
 		warningFlagNewPuzzle = false;
@@ -55,7 +54,6 @@ public class GamePane extends BorderPane {
 		minutes = 0;
 		
 		//Set up GamePane
-		this.dimension = dimension;
 		this.setBackground(ColorTheme.getBackWindow());
 		this.setPrefSize(920, 920);
 		
