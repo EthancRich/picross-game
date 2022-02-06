@@ -1,7 +1,7 @@
 # Picross-Game
 A GUI JavaFX Program that allows the user to solve randomly generated Picross (Nonogram) puzzles.
-![This is an Example 5x5 Puzzle](/images/Picross_Sample_1.png)
-![This is an Example 10x10 Puzzle](/images/Picross_Sample_2.png)
+![This is an Example 5x5 Puzzle](/images/Picross_Sample_1.PNG)
+![This is an Example 10x10 Puzzle](/images/Picross_Sample_2.PNG)
 
 ## Motivation
 For my CSE 205 Honors Project, I wanted to take another stab at a Nonogram program. Previously
