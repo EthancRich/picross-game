@@ -1,5 +1,6 @@
 # Picross-Game
 A GUI JavaFX Program that allows the user to solve randomly generated Picross (Nonogram) puzzles.
+
 ![This is an Example 5x5 Puzzle](/Images/Picross_Sample_1.PNG)
 ![This is an Example 10x10 Puzzle](/Images/Picross_Sample_2.PNG)
 
@@ -47,7 +48,7 @@ Most of the structure can be inferred by the colors of the classes in the Diagra
 ## How to Play
 If you are unfamiliar with how to solve Picross/Nonogram puzzles, you can read how to play [here](https://www.hanjie-star.com/en-us/how-to-solve-picross/solve-first-picross-puzzle).
 
-##### Controls
+### Controls
 - Mouse 1 is **Fill**. Filling is the main criteria for solving the puzzle.
 - Mouse 2 is **Cross**. Crossing helps determine which cells much be filled.
 - Mouse 3 is **Circle**. Circling is used to quickly, visually count cells, as well as test possible fill spots for cells.
