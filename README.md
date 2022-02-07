@@ -50,8 +50,8 @@ If you are unfamiliar with how to solve Picross/Nonogram puzzles, you can read h
 
 ### Controls
 - Mouse 1 is **Fill**. Filling is the main criteria for solving the puzzle.
-- Mouse 2 is **Cross**. Crossing helps determine which cells much be filled.
-- Mouse 3 is **Circle**. Circling is used to quickly, visually count cells, as well as test possible fill spots for cells.
+- Mouse 2 is **Cross**. Crossing helps determine which cells must be filled.
+- Mouse 3 is **Circle**. Circling is used to quickly visually count cells, as well as test possible fill spots for cells.
 
 Clicking and dragging creates multiple of that shape over wherever your mouse goes. Fills and Crosses have higher *priority* than Circles, meaning dragging to create or erase circles will not impact that any pre-existing Fills or Crosses. Dragging with Fills or Crosses can override other Fills or Crosses.
 
